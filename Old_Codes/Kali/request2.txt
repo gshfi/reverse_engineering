@@ -1,0 +1,346 @@
+POST /inschrijven/ HTTP/2
+Host: excellentacademy.nl
+Cookie: __cf_bm=4zPpPJcE3quFKPSq2hdPQzTylZV9cdpul2oaKAIbUpo-1678998923-0-AUWVN3zAGlV3yiY+f5bIjOh6I3vezZzS2R+riku/1lvbXnla6MwMKIiHbm73rX/99TM6CcJamWvTFpZJMXDbvd8=; _gid=GA1.2.2073916531.1678998929; _hjFirstSeen=1; _hjIncludedInSessionSample_2264871=1; _hjSession_2264871=eyJpZCI6IjI5NjA1YWQxLTk5YmMtNDlmNy1iYmFhLTJkYWU5NmI5MWZkZCIsImNyZWF0ZWQiOjE2Nzg5OTg5MjkzMDMsImluU2FtcGxlIjp0cnVlfQ==; _hjIncludedInPageviewSample=1; _hjAbsoluteSessionInProgress=0; _uetsid=16d61360c43a11ed9cfaad119699c343; _uetvid=16d676c0c43a11ed934097da6d4bb558; _ga=GA1.1.851315817.1678998929; _fbp=fb.1.1678999495063.869797525; _hjSessionUser_2264871=eyJpZCI6IjVkMmYzMDQzLWIwZjQtNTU2OC1hOTBkLTEwZDk0YzRhOGQzNyIsImNyZWF0ZWQiOjE2Nzg5OTg5MjkyOTMsImV4aXN0aW5nIjp0cnVlfQ==; _ga_734VFZV5F4=GS1.1.1678999493.1.1.1678999654.0.0.0
+Content-Length: 9443
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Chromium";v="107", "Not=A?Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Linux"
+Upgrade-Insecure-Requests: 1
+Origin: https://excellentacademy.nl
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryg4csKppduN4tgJkO
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.107 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://excellentacademy.nl/inschrijven/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_87"
+
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_35"
+
+Emma
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_36"
+
+Williams
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_152"
+
+Oak Straat
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_153"
+
+Flat 2B
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_154"
+
+1234AB
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_156"
+
+Amsterdam
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_9"
+
+0633312345
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_69"
+
+Moeder
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_69_other"
+
+Anders
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_18"
+
+0876543277
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_70"
+
+Vader
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_70_other"
+
+Anders
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_6"
+
+emma.williams@gmail.com
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_6_2"
+
+emma.williams@gmail.com
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_99"
+
+david.williams@gmail.com
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_99_2"
+
+david.williams@gmail.com
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_43"
+
+Sophie
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_44"
+
+Smith
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_46[]"
+
+1
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_46[]"
+
+6
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_46[]"
+
+2015
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_14"
+
+Meisje
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_30"
+
+Basisschool
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_30_other"
+
+Anders
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_67"
+
+Openbare Basisschool De Meander, Delfgauw
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_10"
+
+Groep 5
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_120"
+
+Ik wl het niet delen
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_121"
+
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_131"
+
+Nee
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_133"
+
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_141"
+
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_72"
+
+Goud
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_72_other"
+
+Anders
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_171"
+
+Ja
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_129"
+
+Ja
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.1"
+
+Maandag 16:00 - 18:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.2"
+
+Maandag 18:00 - 20:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.3"
+
+Dinsdag 16:00 - 18:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.4"
+
+Dinsdag 18:00 - 20:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.5"
+
+Woensdag 14:00 - 16:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.6"
+
+Woensdag 16:00 - 18:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.7"
+
+Woensdag 18:00 - 20:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.8"
+
+Donderdag 16:00 - 18:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.9"
+
+Donderdag 18:00 - 20:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.11"
+
+Vrijdag 16:00 - 18:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.12"
+
+Vrijdag 18:00 - 20:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.13"
+
+Zaterdag 10:00 - 12:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.14"
+
+Zaterdag 12:00 - 14:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.15"
+
+Zaterdag 14:00 - 16:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.16"
+
+Zaterdag 16:00 - 18:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.17"
+
+Zaterdag 18:00 - 20:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.18"
+
+Zondag 10:00 - 12:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.19"
+
+Zondag 12:00 - 14:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.21"
+
+Zondag 14:00 - 16:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.22"
+
+Zondag 16:00 - 18:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_96.23"
+
+Zondag 18:00 - 20:00
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_55"
+
+17
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_84"
+
+IDeal
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_85.1"
+
+Ik ga hiermee akkoord
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_148.1"
+
+Ik ga hiermee akkoord
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_183"
+
+Jaarcontract
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_48"
+
+David Jones
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_49"
+
+NL12 ABCD 1234 5678 90
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_26"
+
+Via Google
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_56"
+
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_173"
+
+Ja
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_15"
+
+Ja
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_12.1"
+
+Ik ga akkoord met de <a href="https://excellentacademy.nl/wp-content/uploads/2023/02/Algemene-voorwaarden-Excellent-Academy-2022-2023-versie-1-jan-20235500.pdf" target="_blank">Algemene voorwaarden van Excellent Academy</a> en de bedenktijd van 14 dagen.
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_150.1"
+
+Ik geef toestemming aan Excellent Academy om mijn gegevens te delen met de partners van Excellent Academy indien dit nodig is.
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_158"
+
+Ja
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_159"
+
+M1225Y
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="input_182"
+
+donderdag 27 april 2022
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="is_submit_93"
+
+1
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="gform_submit"
+
+93
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="gform_unique_id"
+
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="state_93"
+
+WyJ7XCIxODNcIjpbXCJlZGExYmI4N2VkMjgyNDQ3ODRlMjQxZWQ2ZGJkMTJjOFwiLFwiN2M1NDRiNzNhZmZhOWQzYjI1ZTc2NTA4YWI2ODZkOTVcIixcIjk2NTk1ZjQ0ZDNjMjA0OTczZTRmMzJmYjNmYjEyZWJjXCJdfSIsIjlhZDEyYTk2NTQ2MTYxYzFmODI4NjdlODBiODQ4NmE1Il0=
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="gform_target_page_number_93"
+
+0
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="gform_source_page_number_93"
+
+1
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="gform_field_values"
+
+
+------WebKitFormBoundaryg4csKppduN4tgJkO
+Content-Disposition: form-data; name="version_hash"
+
+6ac01460b42805ec4532635e6ca77f21
+------WebKitFormBoundaryg4csKppduN4tgJkO--

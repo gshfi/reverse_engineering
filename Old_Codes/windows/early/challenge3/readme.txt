@@ -1,0 +1,5 @@
+-> The only file sent to the player is uploader.exe.
+-> On the server side, start the service with `ncat -knlvp <port> -e uploader.exe` from the current directory.
+-> On the player side, connect with `ncat <ip> <port>`.
+-> You may use any other tool instead of ncat to deploy the challenge.
+-> Remember to change the permissions of the flag file so no player would be able to modify it.
